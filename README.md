@@ -17,14 +17,15 @@
 </p>
 
 ## Description:
-
+>A simple example of working with Redux-saga.
+>
 >About the demo link: <br>
 >We can asynchronously increment or decrement a counter in the redux store <br>
 >and fetch users from the server using redux-saga `workers` `watchers` and `effects`.
 
 ## Documentation
 
-**Some npm/npx commands:**
+**Used npm commands for install the node modules:**
 - `npx create-react-app my-app`
 - `npm i redux`
 - `npm i react-redux`
